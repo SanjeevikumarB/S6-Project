@@ -1,6 +1,6 @@
 # Dark Pattern Buster Extension
 
-Dark Pattern Buster is a browser extension that helps users identify and counteract dark patterns on various shopping websites.
+Dark Pattern Buster is a browser extension that helps users identify and counteract dark patterns on various E-commerece websites.
 
 ## Installation
 
@@ -36,12 +36,3 @@ Dark Pattern Buster is a browser extension that helps users identify and counter
 2. Click on the Dark Pattern Buster extension icon in your browser toolbar.
 3. Follow the on-screen instructions to analyze the website for dark patterns.
 
-## Screenshots
-
-### Before Analysis
-
-![Before Analysis](before.png)
-
-### After Analysis
-
-![After Analysis](after.png)
