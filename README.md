@@ -7,7 +7,7 @@ Dark Pattern Buster is a browser extension that helps users identify and counter
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SanjeevikumarB/S6-Project.git
+   git clone https://github.com/SanjeevikumarB/S6-Project
    ```
 
 2. Install the required dependencies:
